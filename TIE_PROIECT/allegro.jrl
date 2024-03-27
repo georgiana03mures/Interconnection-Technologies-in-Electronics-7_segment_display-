@@ -1,0 +1,64 @@
+\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Mar 22 15:34:37 2024
+\t (00:00:03)         Host=DESKTOP-8AL4C7F User=Corina Costea Pid=10500 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/PROIECT_pcb.brd
+\i (00:00:06) trapsize 1783
+\i (00:00:06) trapsize 1826
+\i (00:00:06) trapsize 1826
+\i (00:00:07) etchedit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1276.27 1090.06
+\i (00:00:11) trapsize 913
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1276.28 1090.06
+\i (00:00:11) trapsize 456
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1184.08 1128.40
+\i (00:00:12) trapsize 228
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1209.64 1137.07
+\i (00:00:13) trapsize 456
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1209.64 1137.07
+\i (00:00:13) trapsize 913
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1209.65 1137.07
+\i (00:00:14) trapsize 1826
+\i (00:00:15) color192 
+\i (00:00:15) etchedit 
+\i (00:00:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:00:18) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:00:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 9 0
+\i (00:00:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:00:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 6 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:00:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:00:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:00:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:51) artwork 
+\i (00:00:55) setwindow form.film_control
+\i (00:00:55) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SSTOP 
+\i (00:00:58) FORM film_control cancel  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) etchedit 
+\i (00:04:05) exit 
+\t (00:04:06)     Journal end - Fri Mar 22 15:38:40 2024

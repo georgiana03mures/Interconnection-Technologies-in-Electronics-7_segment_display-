@@ -1,0 +1,285 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PROIECT_pcb.brd                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Fri Mar 22 15:31:01 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.12800                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.12800                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < BO >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/BO.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.00 0.00)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     BO created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMBOT >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/SMBOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14800                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SMBOT created.
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: 0 width line found at (5.00 3095.00)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (454.50 3907.50)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     FAB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMTOP >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/SMTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14800                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SMTOP created.
+
+
+================================================================
+     PROCESSING FILM < SPTOP >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/SPTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SPTOP created.
+
+
+================================================================
+     PROCESSING FILM < SSTOP >
+     TO FILE < C:/Users/Corina Costea/Desktop/AN 2/PROIECT_FINAL/TIE_PROIECT/SSTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     SSTOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        BO created with warnings
+        SMBOT created.
+        FAB created with warnings
+        SMTOP created.
+        SPTOP created.
+        SSTOP created.
+
+ ARTWORK had warnings
